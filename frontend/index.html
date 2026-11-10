@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FAQ Matching Bot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <header class="top">
+      <span class="brand">ShopEase Help</span>
+      <span id="status" class="status" title="Backend status">
+        <i class="dot" aria-hidden="true"></i><span id="status-text">connecting…</span>
+      </span>
+    </header>
+
+    <div id="stage" class="stage">
+      <section class="intro" aria-label="Introduction">
+        <div class="intro-clip">
+          <div class="intro-body">
+            <span class="mark" aria-hidden="true"><i></i><i></i><i></i></span>
+            <h1>How can we help?</h1>
+            <p class="lead">Ask a question and the closest answer from our FAQ appears in a moment.</p>
+            <p class="how">Matched with TF-IDF and cosine similarity.</p>
+            <div class="starters" aria-label="Example questions">
+              <p class="label">Try asking</p>
+              <div id="starters"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="chat" class="chat" aria-live="polite"></section>
+    </div>
+
+    <form id="form" class="composer" autocomplete="off">
+      <label for="input" class="sr-only">Your question</label>
+      <div class="field">
+        <input id="input" type="text" maxlength="500" placeholder="Ask a question" required>
+        <button type="submit" id="send" class="send" aria-label="Ask">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+            <path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+    </form>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

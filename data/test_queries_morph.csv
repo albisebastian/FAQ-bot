@@ -1,0 +1,51 @@
+query,expected_question
+refunding my purchase,When will I get my refund?
+how are refunds issued,When will I get my refund?
+I am cancelling my order,How can I cancel my order?
+cancelled orders,How can I cancel my order?
+tracking my parcels,How do I track my order?
+I tracked it yesterday,How do I track my order?
+returning items,How do I return an item?
+returned goods and refunds,When will I get my refund?
+shipping to other countries,Do you ship internationally?
+which countries do you ship to,Do you ship internationally?
+deliveries take how long,How long does delivery take?
+delivered late,Why is my order delayed?
+delayed orders,Why is my order delayed?
+ordering by telephone,Can I order by phone or by WhatsApp?
+exchanging sizes,Can I exchange an item for a different size or color?
+exchanged item,Can I exchange an item for a different size or color?
+payments methods,Which payment methods do you accept?
+paying with cards,Which payment methods do you accept?
+declined payments,My payment failed. What should I do?
+my payment failing,My payment failed. What should I do?
+installments payments,Can I pay in installments?
+accounts creation,How do I create an account?
+deleting accounts,How do I delete my account?
+subscribing to emails,How do I unsubscribe from marketing emails?
+unsubscribed emails keep coming,How do I unsubscribe from marketing emails?
+gift cards expiring,Do gift cards expire?
+redeeming gift cards,Do you sell gift cards and how do I redeem them?
+warranties on products,Do your products come with a warranty?
+engraving products,Can I get my item engraved or personalised?
+discounts codes,How do I use a discount code or promo code?
+promos,How do I use a discount code or promo code?
+coupons,Where can I find coupon codes and current offers?
+recycling electronics,Do you take back old products for recycling?
+recycled packaging,Is your packaging eco-friendly?
+packages damaged,I received a damaged or incorrect item. What should I do?
+received damaged items,I received a damaged or incorrect item. What should I do?
+stolen parcels,What happens if the courier loses my package?
+lost packages,What happens if the courier loses my package?
+sizes charts,How do I find the right size?
+deliveries on sundays,Do you deliver on Sundays and public holidays?
+complaints to managers,Can I speak to a manager?
+reviews deleted,Will you delete a bad review I leave?
+what are your opening hours,What are your customer support hours?
+stores visited,Do you have a physical store I can visit?
+orders shipped late,Why is my order delayed?
+changing addresses,Can I change my shipping address after placing an order?
+changed my email,How do I update my email address or phone number?
+updating phone numbers,How do I update my email address or phone number?
+forgot passwords,I forgot my password. How can I reset it?
+resetting passwords,I forgot my password. How can I reset it?

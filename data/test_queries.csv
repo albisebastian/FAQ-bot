@@ -1,0 +1,67 @@
+query,expected_id
+Where is my package right now?,1
+track parcel status,1
+I want to cancel what I just ordered,2
+cancel purchase before it ships,2
+I typed the wrong delivery address,3
+change the address for my order,3
+the product arrived broken,4
+you sent me the wrong item,4
+my parcel is late,5
+why hasn't my order arrived yet,5
+how many days until my order gets here,6
+what is the delivery time,6
+what are the delivery charges,7
+is shipping free,7
+can you deliver to Europe,8
+do you send orders overseas,8
+I need my order tomorrow,9
+is there next day shipping,9
+how many days do I have to send something back,10
+what is the policy on returns,10
+steps to send back a product,11
+how to return a purchase,11
+how long until my money is refunded,12
+when do I get my money back,12
+swap my order for a different size,13
+can I exchange for another colour,13
+what cards can I pay with,14
+do you take PayPal,14
+are my card details secure,15
+is checkout safe,15
+my card was declined at checkout,16
+payment did not go through,16
+where do I enter my coupon,17
+how to apply a promo code,17
+can I split my payment into parts,18
+do you offer buy now pay later,18
+how to sign up,19
+register a new account,19
+I can't remember my password,20
+reset my login password,20
+change my phone number on my profile,21
+how do I edit my account email,21
+I want to close my account permanently,22
+remove my personal data and delete profile,22
+stop sending me promotional emails,23
+how to opt out of the newsletter,23
+is this item available,24
+notify me when something is back in stock,24
+is there a guarantee on electronics,25
+how long is the warranty,25
+size chart for clothes,26
+which size should I choose,26
+how do I talk to a human agent,27
+what is your support phone number,27
+when is customer service open,28
+what time can I call you,28
+can I shop at a store in person,29
+do you have retail locations,29
+how can I buy a gift card,30
+redeem a voucher code,30
+what is the capital of France,
+how to bake a chocolate cake,
+who won the football world cup,
+tell me a joke,
+best programming language to learn,
+what is the weather today,

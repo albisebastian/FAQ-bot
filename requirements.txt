@@ -1,0 +1,8 @@
+flask>=3.0
+flask-cors>=4.0
+scikit-learn>=1.3
+pandas>=2.0
+joblib>=1.3
+pytest>=8.0
+# optional - only needed to use the Keras model exported from Colab (backend falls back to scikit-learn without it)
+# tensorflow>=2.16
